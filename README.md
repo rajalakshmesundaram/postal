@@ -1,0 +1,1 @@
+``in this web creation,to get the data postal code information using Postal pincode API``
